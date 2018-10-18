@@ -1,0 +1,11 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=2
+nrows=3
+[column_names]
+0000=image
+0001=style
+[column_files]
+0000=m_f0498b06f6886ba2.sidx:0
+0001=m_f0498b06f6886ba2.sidx:1
